@@ -1,0 +1,67 @@
+.activate {
+    border-radius: 25px;
+    background: #316DC3;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.activate a {
+    color: white !important;
+}
+
+a {
+    font-size: small;
+    font-weight: 700;
+}
+
+li:hover {
+    border-radius: 25px;
+    background: #316DC3;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+a:hover {
+    color: white !important;
+}
+
+.header-bar {
+    background-color:#316DC3;
+    color: white;
+    font-size: 14px;
+}
+
+.header-bar-button {
+    background-color: white;
+    font-size: smaller;
+    padding: 3px 10px 3px 10px;
+}
+
+/* .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  } */
+
+.fa fa-phone ul i {
+    color: green;
+}
+
+@media only screen and (max-width: 600px){
+navbar navbar-expand-lg navbar-light bg-light pt-3 pb-3 {
+
+    
+}
+}
+  
+
+  
+
+
